@@ -1,0 +1,1 @@
+The project based on the Java implementation [jARToolKit](http://sourceforge.net/projects/jartoolkit/) of the [ARToolKit](http://www.hitl.washington.edu/artoolkit/) and ports it in the [Processing](http://www.processing.org) environment as a library.
